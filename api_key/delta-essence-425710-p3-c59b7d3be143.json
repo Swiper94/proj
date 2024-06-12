@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "delta-essence-425710-p3",
+  "private_key_id": "c59b7d3be143cb624cc94734b4c170302077f73e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkYD/OeO39dn7p\ndS5/917E7TfPZU7SnCpkePQX6HyUxqpKfS7toi5mBIBYBz3SkOYm7LZ1Kw+OhMU3\n2aCsywWWEXPT/n9LXVXrCxzJ+atiD4uutfdaVFkl3uFXCWxWE14hDo7z29j77Lpt\n7Bty9cx+nve0yYPQZa3NcSo0P4V5QYYxtOgAljMB2bQKNup+AVIGCdsXr7CO8HJC\ndC3Spvdba2fpMevm9SINOY8RcsyI8Vr3tdTLej1BO2/cJhLw7mT5Dunt5EGm6HRy\ndCGp0HTb6BO1OqiLzRAeJRF6r29bdUVVRXiJ8fH1GyMcP3Yx2K2SsUIlj3UrNJ+w\n+u8RHXhtAgMBAAECggEAHVlYGzAJYj+lkl6LYmrTH3sxg1TV2ZHrmcvk3V3z3IaK\nQkmOtvxFp453MgB8/9tCVMHgJBR/rxUyt3GimCeZxD0yfrAKn3S3UgPGbKOo/5XB\n/XxdAWJdFn9woZ87mjTUEjfsu0rON9EBSn4lOoX7sMIGfV+bqvp0qWFixThwRwFs\nRctDbd6gG/luEUtQtltHasisyvQONoslkQgwaIrWuefVQUk4cFQ5bSs4D3cF61Lg\na/gsw5gnUeY+mMRyHolpIT/4S+j0GHIxOfqHOVi/mZjYOE8PxEjZlcWNfDKexF8r\ni3UkHj6J+1K/kp7IIRlr9RMB4IzxqZiPEQ8vIYoVAQKBgQDQ7/519oY3uNFTpdrN\nzNTy9gtf8vmgif741dYKwgeFrmAxWr9or0vLMaYjS+ImLGPYPuzR+33DsqPS14a8\n1oq3Zt2E2MWgSBytRwAeri+n59kCxckjEsVbWX9ew8Y3hhDx+v10TXO9T7Q0k+ra\ngq1dEX4bCnZv2inGIjsv/VBT7QKBgQDJZrIkQwIql+DlyRCOz/+8NGg/Dc8IOo6m\nrI9nXI3qDT+80PdstFDtM9ZtRvrS9lWefN8XXEnmvFY15eT8Z9MCV8+At2ml936z\nHYArzyQIv3/Q6EiIO5LUB0tOMVMP+Q28cxYcuw/iGuxVE0+MiWK1CDT1bn+yxZF4\nPmX08iYmgQKBgQC666pD0Hv9B9xFsGCSs0hj4FkGyvImfK5d4bhuwW1HXFx0axJI\nzmLJcy6F71JwAlCE2q61oP+/f2burqC8+lb5gw501hXfsgPtxVJHIGBEH7hWsamj\nNhzX/7ZiilUfwVIRmhD75nrAB7lZPGfkevosBAVEndSddpjeyCsZYM9ndQKBgAQp\nNQD+yWqr3J+iuc7ZiUUQKB81X9OhshTLd+MAzIXLZEe4YYRDbXCZI5L6ZnA5Wqd9\nmPZYl8ZGmdlfOI3mbzubKNRV9b7SEDIPJ/i/vNTZcACW6/i0kmIDDJE+/6JS2O/N\nyOUrEDbxq3ROg9Q5emqXEtEHSWgeINVFJMIcxqEBAoGAJmq5T/xYgiduwHMUlw/p\nmJdJSvEWCdUONu0X9KKIFX1cliOhFgudfGoWjJt/8eP/7zlGtyT7hX8wQ0MC7yqP\nX76LMlxwUctDV63q2Y487RlBsS8OheKBuU7XtorMaj+ws8SmUCilp4uV++KhE3r+\n5zuEZIX0BDJxgOcXDmUO9dQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kanxi-nlp-test@delta-essence-425710-p3.iam.gserviceaccount.com",
+  "client_id": "107100663606141707367",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kanxi-nlp-test%40delta-essence-425710-p3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
